@@ -1,0 +1,59 @@
+/* Add any css you want to use for you website here */
+
+
+header{
+	background-image: url(../img/homebanner.png);
+	background-position: bottom;
+	background-attachment: fixed;
+	height: 500px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+header h1{
+	background: white;
+	border-radius: 100px;
+	width: 30%;
+	margin: auto;
+	padding: 20px;
+	position: relative;
+	top: 460px;
+	font-weight: 100;
+	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+}
+
+.container .jumbotron{
+	margin-top: 80px;
+	font-size: 1.5em;
+	font-weight: 200;
+	text-align: center;
+}
+
+.container{
+	text-align: center;
+}
+
+.football-link{
+	background-color: #CFB87C;
+	border-radius: 100px;
+	padding: 10px;
+	width: 30%;
+	margin: auto;
+	margin-bottom: 300px;
+	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+}
+
+.container a{
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+}
+
+.table{
+	margin-bottom: 100px;
+}
+
+.card a{
+	color: #16181b;
+}
+
